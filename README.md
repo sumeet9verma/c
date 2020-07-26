@@ -1,1 +1,1 @@
-This Banking Management System Developed purely in C language, suitable to run in TURBO. 
+This is a Graphical Representation purely in C language, suitable to run in TURBO. 
